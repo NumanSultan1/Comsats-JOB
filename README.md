@@ -1,4 +1,4 @@
-# Comsats University Islamabad - Job Application Form
+# Comsats-JOB - Application Form
 
 A web-based Non-Faculty Job Application form for Comsats University Islamabad. This project utilizes HTML and CSS to create a structured and responsive user interface for applicants to fill out their details.
 
